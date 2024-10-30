@@ -77,16 +77,15 @@ Live Interacting Dashboard was published into workspace and roles are assigned(A
 ### Further Learning Topics:
 * Roles in PowerBI Workspace (Admin, Member, Contributor, Viewer)
 * Applying RLS & OLS
+* Sensitivity label
 * what if parameters
 * Query Folding
 * Incremental Refresh
 * PowerBI Dataset/ Semantic Model
 * Tabular Editor
 
-
 [Microsoft Powerbi Learn](https://learn.microsoft.com/en-us/training/powerplatform/power-bi)
 
-[PowerBI Live Dashboard]()
 
 
  
