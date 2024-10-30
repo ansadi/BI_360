@@ -45,7 +45,7 @@ Live Interacting Dashboard was published into workspace and roles are assigned(A
 
 ## Key Insights:
 * India is the biggest market for AtliQ considering Net Sales. Amazon is the best customer in India over Net Sales. But Amazon failed in achieving GM Target%. But Flipkart and AtliQ Exclusive achieved GM Target% 
-* Market UK boasts highest GM%. 
+* Australlia possess highest GM%(42.28%) 
 * With each Financial Year Forecast Accuracy is improving.
 * AQ HOME Allin1 Gen 2 is the best product as per Revenue Contribution and GM% growth YOY.
 * AQ Marquee P4 is the worst product as per GM% growth YOY. Atliq 
