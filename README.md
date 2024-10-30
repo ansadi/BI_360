@@ -86,5 +86,7 @@ Live Interacting Dashboard was published into workspace and roles are assigned(A
 
 [Microsoft Powerbi Learn](https://learn.microsoft.com/en-us/training/powerplatform/power-bi)
 
+[PowerBI Live Dashboard]()
+
 
  
