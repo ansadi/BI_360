@@ -12,35 +12,36 @@ After this I started creating Dashboard.
 Live Interacting Dashboard was published into workspace and roles are assigned(Admin,Member,Contributor,Viewer) as per requirement.
 
 ##Pages In Dashboard:
-• Info: Overview of AtliQ data
-• Finance View: P & L statement for any customer /product / country or aggregation of the above over any time period and More..
-• Sales View: customer performance analysis over key metrics like Net Sales, Gross Margin.
-• Marketing View: Product performance analysis over key metrics like Net Sales, Gross Margin.Performance based on Region and segment.
-• Supply Chain View: Analysis of Forecast Accuracy, Errors and Risk
-• Executive View: Bird’s Eye View of KPI’s of AtliQ to generate Insights.
-• Executive Request: Last minute Ad_hoc request by top executive.
+* Info: Overview of AtliQ data
+* Finance View: P & L statement for any customer /product / country or aggregation of the above over any time period and More..
+* Sales View: customer performance analysis over key metrics like Net Sales, Gross Margin.
+* Marketing View: Product performance analysis over key metrics like Net Sales, Gross Margin.Performance based on Region and segment.
+* Supply Chain View: Analysis of Forecast Accuracy, Errors and Risk
+* Executive View: Bird’s Eye View of KPI’s of AtliQ to generate Insights.
+* Executive Request: Last minute Ad_hoc request by top executive.
 
 ##Business Metrics:
-• Fiscal Year (For AtliQ: Sept1 to Aug31)
-• Gross_price
-• Pre_Invoice_Deductions
-• Post_Invoice_Deductions
-• Net Invoice Sales
-• Net Sales
-• Sales Channels
-• Sales Platform
-• Manufacturing Cost
-• Freight Cost
-• Total Cost Of Goods Sold
-• Gross Margin
-• GM% growth YOY
-• Net Profit
-• Forecast Accuracy
-• Net Absolute Error
-• YTD (Year to Date)
-• YTG (Year to go)
-• Market share
-• Revenue contribution
+* Fiscal Year (For AtliQ: Sept1 to Aug31)
+* Gross_price
+* Pre_Invoice_Deductions
+* Post_Invoice_Deductions
+* Net Invoice Sales
+* Net Sales
+* Sales Channels
+* Sales Platform
+* Manufacturing Cost
+* Freight Cost
+* Total Cost Of Goods Sold
+* Gross Margin
+* Net Profit
+* Forecast Accuracy
+* Net Absolute Error
+* YTD (Year to Date)
+* YTG (Year to go)
+* GM% growth YOY
+* Market share
+* Revenue contribution
+
 
 ##Key Insights:
 •	India is the biggest market for AtliQ considering Net Sales. Amazon is the best customer in India over Net Sales. But Amazon failed in achieving GM Target%. But Flipkart and AtliQ Exclusive achieved GM Target% 
