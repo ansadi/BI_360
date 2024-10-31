@@ -52,7 +52,8 @@ Live Interacting Dashboard was published into workspace and roles are assigned(A
 * Latin America Sales and Revenue Contribution is very poor.
 * Networking and Storage boasts good GM % and net profit % .  Management should actively increase the sales for N&S division.
 * PC have highest Revenue Contribution. As Atliq is gaining market share in PC division, it should increase sales, but not at the cost of COGS, discount and Operational expenses.
-  **Finally, AtliQ needs to control COGS, Operational Expenses and Discounts to get positive Net Profit% **
+
+**Finally, AtliQ needs to control COGS, Operational Expenses and Discounts to get positive Net Profit%**
 
 
 ## Learning:
