@@ -44,14 +44,15 @@ Live Interacting Dashboard was published into workspace and roles are assigned(A
 
 
 ## Key Insights:
-* India is the biggest market for AtliQ considering Net Sales. Amazon is the best customer in India over Net Sales. But Amazon failed in achieving GM Target%. But Flipkart and AtliQ Exclusive achieved GM Target% 
-* Australlia possess highest GM%(42.28%) 
+* India is the biggest market for AtliQ considering Net Sales. Amazon is the best customer in India over Net Sales. But both India and Amazon failed in achieving GM Target%. Flipkart and AtliQ Exclusive achieved GM Target% 
+* Australlia have the highest GM%(42.28%) 
 * With each Financial Year Forecast Accuracy is improving.
 * AQ HOME Allin1 Gen 2 is the best product as per Revenue Contribution and GM% growth YOY.
-* AQ Marquee P4 is the worst product as per GM% growth YOY. Atliq 
-* Latin America Sales and Revenue Contribution is very poor
+* AQ Marquee P4 is the worst product as per GM% growth YOY. 
+* Latin America Sales and Revenue Contribution is very poor.
 * Networking and Storage boasts good GM % and net profit % .  Management should actively increase the sales for N&S division.
 * PC have highest Revenue Contribution. As Atliq is gaining market share in PC division, it should increase sales, but not at the cost of COGS, discount and Operational expenses.
+  **Finally, AtliQ needs to control COGS, Operational Expenses and Discounts to get positive Net Profit% **
 
 
 ## Learning:
