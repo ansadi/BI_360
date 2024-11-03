@@ -42,19 +42,19 @@ Live Interacting Dashboard was published into workspace and roles are assigned(A
 * Market share
 * Revenue contribution
 
-
 ## Key Insights:
-* India is the biggest market for AtliQ considering Net Sales. Amazon is the best customer in India over Net Sales. But both India and Amazon failed in achieving GM Target%. Flipkart and AtliQ Exclusive achieved GM Target% 
-* Australlia have the highest GM%(42.28%) 
+* Top Market: India leads in Net Sales($1271M) & Revenue Contribution(25.59%) but fall short of the GM%. Canada leads in GM(44.53%) 
+* Top Customer: Amazon leads in Net Sales($460.37M) & Revenue Contribution(9.27%). But "Relief" which operates in Canada & Spain leads in GM(45.4%)
+* Top Product: AQ Home Allin 1 Gen2 leads in Net Sales($218.5M) & Revenue Contribution (4.4%) while AQ LION x1 possess best GM(38.40%)
+* AQ Marquee P4 is the worst product as per GM% growth YOY.
 * With each Financial Year Forecast Accuracy is improving.
-* AQ HOME Allin1 Gen 2 is the best product as per Revenue Contribution and GM% growth YOY.
-* AQ Marquee P4 is the worst product as per GM% growth YOY. 
-* Latin America Sales and Revenue Contribution is very poor.
+* Region Of Concern: Latin America Sales and Revenue Contribution is very poor.{ NS($21M) RC(0.42%) GM(34.74%) Tot COGS($13.7M) OperationalExpenses($16.5M) Other Expenses($0.12M) }
+* Most Significant Market: India is best with Net Sales & Revenue Contribution, but still lags in GM% & Net Profit%.{ NS($1271M) RC(25.59%)  Tot COGS($828.96M) Oper. Expenses($1008.6M) Oth. Exp($7.6M) }
 * Networking and Storage boasts good GM % and net profit % .  Management should actively increase the sales for N&S division.
 * PC have highest Revenue Contribution. As Atliq is gaining market share in PC division, it should increase sales, but not at the cost of COGS, discount and Operational expenses.
 
-**"Finally, AtliQ needs to control COGS, Operational Expenses and Discounts to get positive Net Profit%"**
-
+## Overall Recomendation
+*"Finally, AtliQ needs to control COGS, Operational Expenses and Discounts to get positive Net Profit%"**
 
 ## Learning:
 * Project Charter
@@ -74,7 +74,6 @@ Live Interacting Dashboard was published into workspace and roles are assigned(A
 * Layer Order, Tab Order
 * Editing Interactions
 * Visualization Drilling
-
 
 ### Further Learning Topics:
 * Roles in PowerBI Workspace (Admin, Member, Contributor, Viewer)
